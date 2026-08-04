@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrahimali/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mrahimali/Leetcode-Question/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mrahimali/Leetcode-Question/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrahimali/Leetcode-Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mrahimali/Leetcode-Question/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mrahimali/Leetcode-Question/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
