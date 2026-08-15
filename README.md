@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrahimali/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrahimali/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrahimali/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mrahimali/Leetcode-Question/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrahimali/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -34,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mrahimali/Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrahimali/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrahimali/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrahimali/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -71,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mrahimali/Leetcode-Question/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mrahimali/Leetcode-Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
